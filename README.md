@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuniorJuca12
 - 👀 I’m interested in learn
-- 🌱 I’m currently learning POO and Microcontrollers
+- 🌱 I’m currently learning Front-End skills
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Dragon Ball lover
